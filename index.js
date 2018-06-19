@@ -27,7 +27,7 @@ function sayHiToGrandma(string) {
   response =  "YES INDEED!"
   
   string === "I love you, Grandma."
-  response = "I love you, too"
+  response = "I love you, too."
   
   return response
 }
