@@ -20,7 +20,6 @@ function sayHiToGrandma(string) {
 }
 
 function sayHiToGrandma(string) {
-  var response
   string.toLowerCase() === string
   response = "I can't hear you!"
   
